@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/task3wordcounter/static/css/main.073c9b0a.css",
+    "main.js": "/task3wordcounter/static/js/main.a0e0468d.js",
+    "static/js/787.fa21c365.chunk.js": "/task3wordcounter/static/js/787.fa21c365.chunk.js",
+    "index.html": "/task3wordcounter/index.html",
+    "main.073c9b0a.css.map": "/task3wordcounter/static/css/main.073c9b0a.css.map",
+    "main.a0e0468d.js.map": "/task3wordcounter/static/js/main.a0e0468d.js.map",
+    "787.fa21c365.chunk.js.map": "/task3wordcounter/static/js/787.fa21c365.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.a0e0468d.js"
+  ]
+}
